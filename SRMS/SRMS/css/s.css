@@ -1,0 +1,25 @@
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 60%; /* Adjust the width as desired */
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+th {
+    background-color: #f2f2f2; /* Set a background color for header cells */
+}
+
+td {
+    background-color: #ffffff; /* Set a background color for content cells */
+}
