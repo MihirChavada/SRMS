@@ -17,7 +17,7 @@ The application is designed with a user-friendly interface using HTML, CSS, and 
 # Installation
 Follow these steps to set up the Student Result Management System:
 
-(1) Clone the repository: git clone https://github.com/your-username/student-result-management-system.git.    
+(1) Clone the repository: git clone https://github.com/MihirChavada/SRMS.    
 (2) Set up a web server (e.g., Apache) and ensure PHP and MySQL are installed.    
 (3) Create a MySQL database for the system.     
 (4) Import the database schema using the provided SQL file (database.sql).    
